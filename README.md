@@ -1,16 +1,16 @@
 <h1> USA Hoursing - Linear Regression  </h1>
 
 <h2>Description</h2>
-Project consists of a simple linear regression model training to determine the best Housing area of the USA States to consider real estate, it include area and estimations data important to i train the model correctly.
+IN this project, the USA Dataset features can be used to annalyse the average market price of houses. Good for real estate agences and personal use to know if you are buying or selling at fair price.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>Jupyter notebook</b>
+- <b>Python libraries(see first photo ref)</b>
 
-<h2>Environments Used </h2>
+<h2>Platform </h2>
 
 - <b>Jupiter notebook</b> (21H2)
 
@@ -55,8 +55,7 @@ Model Evauation : <br/>
 <br />
 
  <h2>Summary</h2>
-we can determine from the trainned models ...
-<br />
+The model predicts house prices with an average error of $100,842. While this provides general trends, it may need improvements for better precision. Next, we can refine features and test advanced models like XGBoost to reduce errors.<br />
 
 <!--
  ```diff
