@@ -1,7 +1,7 @@
 <h1> USA Hoursing - Linear Regression  </h1>
 
 <h2>Description</h2>
-In this project, the USA Dataset features can be used to annalyse the average market price of houses. Good for real estate agences and personal use to know if you are buying or selling at fair price.
+In this project, the USA Dataset can be used to annalyse the average market price of houses. Good for real estate agencies and personal use to know if you are buying or selling at a fair price.
 <br />
 
 
