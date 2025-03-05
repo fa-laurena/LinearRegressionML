@@ -18,40 +18,37 @@ In this project, the USA Dataset can be used to annalyse the average market pric
 
 <p align="center">
 Importing Libraries : <br/>
-<img src="https://i.imgur.com/8WQfwTQ.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Libraries.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Data Evaluation : <br/>
-<img src="https://i.imgur.com/csFrJTd.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Model%20evaluation.png" alt="Disk Sanitization Steps"/>
 <br />
 Data Cleaning : <br/>
-<img src="https://i.imgur.com/whgNz6k.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/data%20cleaning.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Heatmap Graphic Information : <br/>
-<img src="https://i.imgur.com/kZj7omu.png"80%" alt="Disk Sanitization Steps"/>
-<br />
- Displot Graphic Information : <br/>
-<img src="https://i.imgur.com/8GX6SEF.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Heatmap.png"80%" alt="Disk Sanitization Steps"/>
 <br />
 Model Variable Creation : <br/>
-<img src="https://i.imgur.com/KcvQRTa.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Variable.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  Choosing Model Suitable for Binary Classification : <br/>
-<img src="https://i.imgur.com/9VmuPgU.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Model%20selection.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  Initiating and Training : <br/>
-<img src="https://i.imgur.com/Lmy2J7n.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
- Evaluate the Model's Performance and Iterate  : <br/>
-<img src="https://i.imgur.com/9bnC5xX.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Initiating%20and%20training.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Predictions : <br/>
-<img src="https://i.imgur.com/xnVJki5.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Prediction.png"80%" alt="Disk Sanitization Steps"/>
+<br />
+ Coefficient  : <br/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Coefficient.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  Displot Graphic Information: <br/>
-<img src="https://i.imgur.com/A28qUCV.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Displot%20graph.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Model Evauation : <br/>
-<img src="https://i.imgur.com/I33MVQn.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/LinearRegressionML/blob/d6173f793a4cd9932406fa412ce8244a2389ae53/Model%20evaluation.png"80%" alt="Disk Sanitization Steps"/>
 <br />
 
  <h2>Summary</h2>
